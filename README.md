@@ -1,2 +1,2 @@
 # poo-coo
-POO et COO en 4ETI
+POO et COO en 4ETI by JB Blaise
